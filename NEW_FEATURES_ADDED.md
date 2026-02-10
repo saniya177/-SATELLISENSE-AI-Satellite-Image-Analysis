@@ -1,12 +1,12 @@
 # New Features Added to Project
 
-## ✅ Changes Made
+## Changes Made
 
 ### 1. **Removed from Dashboard**
-- ❌ Report Generation - Removed from main dashboard (kept in code for backward compatibility)
-- ❌ Annotations - Removed from main dashboard (kept in code for backward compatibility)
+-  Report Generation - Removed from main dashboard (kept in code for backward compatibility)
+- Annotations - Removed from main dashboard (kept in code for backward compatibility)
 
-### 2. **Added: Natural Language Query System (LLM-Powered)** ⭐ MAIN FEATURE
+### 2. **Added: Natural Language Query System (LLM-Powered)** MAIN FEATURE
 
 **What it does:**
 Users can now talk to their satellite data in plain language! Instead of coding or navigating complex software, users can simply ask questions like:
@@ -29,7 +29,7 @@ Users can now talk to their satellite data in plain language! Instead of coding 
 
 ---
 
-### 3. **Added: Predictive Analysis** 🔮
+### 3. **Added: Predictive Analysis** 
 
 **What it does:**
 AI predicts future trends based on historical satellite data analysis.
@@ -50,7 +50,7 @@ AI predicts future trends based on historical satellite data analysis.
 
 ---
 
-### 4. **Added: Anomaly Detection** ⚠️
+### 4. **Added: Anomaly Detection** 
 
 **What it does:**
 Automatically detects unusual patterns, unexpected changes, or anomalies in satellite images.
@@ -127,7 +127,7 @@ Analyzes time-series satellite data and forecasts future changes.
 
 ---
 
-## 🚀 Novelty & Innovation
+## Novelty & Innovation
 
 ### 1. **Natural Language Interface**
 - **Novelty**: First-of-its-kind natural language interface for satellite data analysis
@@ -155,43 +155,42 @@ Analyzes time-series satellite data and forecasts future changes.
 - **Impact**: Improves user experience and discovery
 
 ---
-
-## 📊 Project Value for 100 Marks
+ 
 
 ### Technical Excellence:
-- ✅ Advanced AI integration (Gemini multimodal AI)
-- ✅ Natural language processing
-- ✅ Time-series analysis
-- ✅ Predictive modeling
-- ✅ Anomaly detection algorithms
+-  Advanced AI integration (Gemini multimodal AI)
+-  Natural language processing
+-  Time-series analysis
+-  Predictive modeling
+- Anomaly detection algorithms
 
 ### Innovation:
-- ✅ Novel natural language interface
-- ✅ Context-aware AI responses
-- ✅ Intelligent query suggestions
-- ✅ Predictive analysis capabilities
+-  Novel natural language interface
+-  Context-aware AI responses
+-  Intelligent query suggestions
+-  Predictive analysis capabilities
 
 ### Real-World Application:
-- ✅ Solves real problems (disaster management, agriculture, etc.)
-- ✅ Accessible to non-experts
-- ✅ Scalable and extensible
-- ✅ Multiple use cases
+-  Solves real problems (disaster management, agriculture, etc.)
+-  Accessible to non-experts
+-  Scalable and extensible
+- Multiple use cases
 
 ### User Experience:
-- ✅ Intuitive interface
-- ✅ Plain language interaction
-- ✅ Smart suggestions
-- ✅ Comprehensive feature set
+-  Intuitive interface
+-  Plain language interaction
+-  Smart suggestions
+- Comprehensive feature set
 
 ### Code Quality:
-- ✅ Well-structured routes
-- ✅ Error handling
-- ✅ API design
-- ✅ Documentation
+-  Well-structured routes
+-  Error handling
+-  API design
+- Documentation
 
 ---
 
-## 🎓 How to Use New Features
+##  How to Use New Features
 
 ### Natural Language Queries:
 1. Go to main dashboard
@@ -216,7 +215,7 @@ Analyzes time-series satellite data and forecasts future changes.
 
 ---
 
-## 📝 Summary
+## Summary
 
 **Total New Features Added:** 4 major features
 **Routes Added:** 4 new API endpoints
@@ -231,5 +230,6 @@ This project now demonstrates:
 - User-centric design
 - Real-world problem solving
 
-**Perfect for a 100-mark project!** 🎉
+ 
+
 
