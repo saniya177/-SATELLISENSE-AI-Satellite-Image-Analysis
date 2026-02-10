@@ -1,7 +1,7 @@
-SATELLISENSE-AI-Satellite-Image-Analysis
-An AI-driven dashboard for satellite image analysis using Large Language Models to generate insights, visualizations, and automated reports.
+SATELLISENSE is an AI-driven dashboard designed to simplify satellite image analysis by using Large Language Models. Traditional satellite data interpretation requires domain expertise and specialized tools, making it time-consuming and inaccessible to many users. This project bridges that gap by converting complex satellite imagery into clear insights, visualizations, and explanations through an interactive interface.
 
 
+Satellite images contain valuable information for applications such as environmental monitoring, agriculture, disaster management, and urban planning. However, analyzing this data is often slow, technically complex, and dependent on expert interpretation. There is a need for an intelligent system that can automatically analyze satellite images, present results in an understandable form, and allow users to interact with the data using natural language without requiring deep technical knowledge.
 
 
 ## Repository Contents
